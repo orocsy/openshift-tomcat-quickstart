@@ -1,0 +1,88 @@
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.65
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Oct 9 2015 08:36:58 UTC
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.65.0
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.10.1
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_65-b17
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Library/Tomcat
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Library/Tomcat
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Library/Tomcat/conf/logging.properties
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/Library/Tomcat/endorsed
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Library/Tomcat
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Library/Tomcat
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Library/Tomcat/temp
+Nov 17, 2015 12:07:15 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/sc578/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Nov 17, 2015 12:07:15 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8800"]
+Nov 17, 2015 12:07:15 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8007"]
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 503 ms
+Nov 17, 2015 12:07:15 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 17, 2015 12:07:15 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.65
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/sc578/Desktop/Tomcat/apache-tomcat-7.0.65/webapps/docs
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/sc578/Desktop/Tomcat/apache-tomcat-7.0.65/webapps/docs has finished in 276 ms
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/sc578/Desktop/Tomcat/apache-tomcat-7.0.65/webapps/examples
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/sc578/Desktop/Tomcat/apache-tomcat-7.0.65/webapps/examples has finished in 271 ms
+Nov 17, 2015 12:07:15 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/sc578/Desktop/Tomcat/apache-tomcat-7.0.65/webapps/host-manager
+Nov 17, 2015 12:07:16 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/sc578/Desktop/Tomcat/apache-tomcat-7.0.65/webapps/host-manager has finished in 42 ms
+Nov 17, 2015 12:07:16 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/sc578/Desktop/Tomcat/apache-tomcat-7.0.65/webapps/manager
+Nov 17, 2015 12:07:16 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/sc578/Desktop/Tomcat/apache-tomcat-7.0.65/webapps/manager has finished in 40 ms
+Nov 17, 2015 12:07:16 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/sc578/Desktop/Tomcat/apache-tomcat-7.0.65/webapps/ROOT
+Nov 17, 2015 12:07:16 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/sc578/Desktop/Tomcat/apache-tomcat-7.0.65/webapps/ROOT has finished in 28 ms
+Nov 17, 2015 12:07:16 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8800"]
+Nov 17, 2015 12:07:16 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8007"]
+Nov 17, 2015 12:07:16 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 693 ms
+Nov 17, 2015 12:08:47 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Nov 17, 2015 12:08:47 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8800"]
+Nov 17, 2015 12:08:47 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8007"]
+Nov 17, 2015 12:08:47 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Nov 17, 2015 12:08:47 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8800"]
+Nov 17, 2015 12:08:47 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8007"]
+Nov 17, 2015 12:08:47 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8800"]
+Nov 17, 2015 12:08:47 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8007"]
